@@ -41,4 +41,4 @@ sudo systemctl start wazuh-manager
 
 Once the installation is complete, open a web browser and navigate to http://your-server-ip:5601. The Wazuh Kibana app will guide you through the setup process.
 
-For more intergation and add-on <a href="https://documentation.wazuh.com/current/proof-of-concept-guide/detect-remove-malware-virustotal.html">Documentation</a>
+For more intergation and add-on <a href="https://github.com/wazuh/wazuh-documentation/blob/4.7/source/proof-of-concept-guide/detect-remove-malware-virustotal.rst">Documentation</a>
